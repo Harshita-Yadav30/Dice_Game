@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(255, 158, 163);
+}
+
+h1{
+    margin-top: 40px;
+    font-size: 55px;
+    margin-bottom: 50px;
+}
+
+big{
+    font-size: 35px;
+}
+
+div{
+    margin: auto;
+    width: 42%;
+    display: flex;
+    justify-content: space-between;
+}
+
+img{
+    width: 300px;
+    border: 1px black solid;
+    margin: 30px 0 60px;
+}
+
+button{
+    width: 160px;
+    height: 60px;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
